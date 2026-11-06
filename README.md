@@ -8,9 +8,6 @@ through your shakers, reads the vibration your phone recorded, and works
 out the parametric EQ filters that flatten the response. No install, no
 account, and nothing you record leaves your device.
 
-**[Open Shaker EQ
-Wizard](https://straightspine.github.io/shaker-eq-wizard/)**
-
 The wizard includes a built-in demo mode, so you can explore the
 interface without connecting any equipment or recording a measurement.
 
