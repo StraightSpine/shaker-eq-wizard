@@ -82,8 +82,11 @@ Built by Anthoney (StraightSpine) with Claude, Anthropic's AI assistant.
 
 ## Run it yourself
 
-The project is a single HTML file. Download `index.html` and open it in
-a modern browser, or host it anywhere static, such as GitHub Pages.
+You can run the tool live from [here](https://straightspine.github.io/shaker-eq-wizard/)
+
+Alternatively, you can run it locally. The project is a single HTML file. 
+Download `index.html` and open it in a modern browser, or host it anywhere
+static, such as GitHub Pages.
 
 ## Limitations
 
