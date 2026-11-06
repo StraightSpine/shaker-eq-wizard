@@ -102,6 +102,3 @@ and `/ (root)` folder.
 Found a bug or have an idea? Please open an issue in the [GitHub
 repository](https://github.com/StraightSpine/shaker-eq-wizard/issues).
 
-## Licence
-
-MIT. See the [LICENSE](LICENSE) file.
