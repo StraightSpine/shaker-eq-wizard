@@ -78,6 +78,8 @@ automatic sweeps, filter fitting and file export, and it does not
 contain or reuse his workbook. This project is not affiliated with Tyler
 Gauharou or Simple Home Cinema.
 
+Built by Anthoney (StraightSpine) with Claude, Anthropic's AI assistant.
+
 ## Run it yourself
 
 The project is a single HTML file. Download `index.html` and open it in
