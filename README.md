@@ -83,7 +83,6 @@ Gauharou or Simple Home Cinema.
 The project is a single HTML file. Download `index.html` and open it in
 a modern browser, or host it anywhere static, such as GitHub Pages.
 
-
 ## Limitations
 
 -   Corrections are only valid for the exact setup you measured: same
