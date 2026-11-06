@@ -9,7 +9,9 @@ out the parametric EQ filters that flatten the response. No install, no
 account, and nothing you record leaves your device.
 
 The wizard includes a built-in demo mode, so you can explore the
-interface without connecting any equipment or recording a measurement.
+interface without connecting any equipment or recording a measurement. 
+
+Made for people new to EQ, with settings that more advanced users can adjust.
 
 ![Shaker EQ Wizard Interface](Shaker%20EQ%20Wizard%20Interface.png)
 
@@ -66,6 +68,10 @@ shows two warnings and a countdown before any sound, and a Stop button
 is always on screen. Start with your level control all the way down and
 raise it slowly.
 
+## Feedback
+
+I'm keen to hear any feedback or suggestions to improve the tool. Let me know if there's features you'd like me to add!
+
 ## Credit
 
 The method comes from Tyler Gauharou's Bass Shaker EQ workbook,
@@ -81,9 +87,6 @@ Gauharou or Simple Home Cinema.
 The project is a single HTML file. Download `index.html` and open it in
 a modern browser, or host it anywhere static, such as GitHub Pages.
 
-To publish on GitHub Pages, put `index.html` in the top level of your
-repository, then go to **Settings → Pages** and choose the `main` branch
-and `/ (root)` folder.
 
 ## Limitations
 
