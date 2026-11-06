@@ -14,7 +14,7 @@ Wizard](https://straightspine.github.io/shaker-eq-wizard/)**
 The wizard includes a built-in demo mode, so you can explore the
 interface without connecting any equipment or recording a measurement.
 
-![Shaker EQ Wizard Interface](screenshot.png)
+![Shaker EQ Wizard Interface](Shaker%20EQ%20Wizard%20Interface.png)
 
 ## Why
 
