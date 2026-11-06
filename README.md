@@ -68,10 +68,6 @@ shows two warnings and a countdown before any sound, and a Stop button
 is always on screen. Start with your level control all the way down and
 raise it slowly.
 
-## Feedback
-
-I'm keen to hear any feedback or suggestions to improve the tool. Let me know if there's features you'd like me to add!
-
 ## Credit
 
 The method comes from Tyler Gauharou's Bass Shaker EQ workbook,
