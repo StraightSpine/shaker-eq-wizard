@@ -14,13 +14,8 @@ Wizard](https://straightspine.github.io/shaker-eq-wizard/)**
 The wizard includes a built-in demo mode, so you can explore the
 interface without connecting any equipment or recording a measurement.
 
-```{=html}
-<!-- SCREENSHOT GOES HERE
-     Upload your screenshot to the TOP LEVEL of the repository (beside this README.md).
-     Name the image screenshot.png, then replace this comment with:
-     ![Shaker EQ Wizard showing a measured shaker response and generated EQ](screenshot.png)
--->
-```
+![Shaker EQ Wizard Interface](screenshot.png)
+
 ## Why
 
 Bass shakers (tactile transducers) never have a flat response. Some
